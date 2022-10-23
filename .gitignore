@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+TSSVDUnrealEngine/Intermediate/CachedAssetRegistry.bin
+
+TSSVDUnrealEngine/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+
+TSSVDUnrealEngine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+
+TSSVDUnrealEngine/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+
+TSSVDUnrealEngine/Saved/Logs/TSSVDUnrealEngine.log
