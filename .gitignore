@@ -82,3 +82,5 @@ TSSVDUnrealEngine/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
 TSSVDUnrealEngine/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 
 TSSVDUnrealEngine/Saved/Logs/TSSVDUnrealEngine.log
+
+.DS_Store
