@@ -84,3 +84,7 @@ TSSVDUnrealEngine/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 TSSVDUnrealEngine/Saved/Logs/TSSVDUnrealEngine.log
 
 .DS_Store
+
+TSSVDUnrealEngine/Saved/Autosaves/PackageRestoreData.json
+
+TSSVDUnrealEngine/Saved/Config/WindowsEditor/Engine.ini
